@@ -1,5 +1,5 @@
 # 🚀 NIT Full Stack Data Science & AI Journey
-
+# Python Programming
 Welcome to my personal learning space! This repository is where I’m tracking everything I learn during the **NIT Full Stack Data Science & AI** course — from Python basics to machine learning, AI, and real-world projects.
 
 ---
@@ -12,51 +12,22 @@ This repo is neatly organized into folders for easy navigation:
 
 - **`Task_PDF/`** – Short notes, concept summaries, and cheat sheets written in plain English.
 
+- **`README/`**  – a readme file describes th entire thing
 ---
 
 ## 👤 About Me
 
 I'm an enthusiastic learner with a strong interest in how **Artificial Intelligence** works. I enjoy building things, solving problems, and learning by doing.
 
-### 🧠 What I’m Learning:
-- Python (core and advanced)
-- SQL
-- Numpy, Pandas, Matplotlib, Seaborn
-- Machine Learning & Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- GenAI
-- LLM
-- Agentic AI
-- MLOps (Machine Learning Operations)
-
-### 🎯 My Targets:
-- Build a strong foundation in AI and Data Science
-- Apply my skills to real-world problems
-- Work with others who are equally passionate about tech and innovation
-
-### 🙌 I'm Open To:
-- Internships or volunteer roles in AI and data science projects
-- Collaborating on open-source projects
-- Learning from others in the community
-
 ---
 
 ## 🧰 Tools & Technologies I Use
 
-- **Languages**: Python ,SQL
+- **Languages**: Pythons
 - **IDE**: Jupyter Notebooks, VS Code ,Pycharm, Google Colab 
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
 - **ML Frameworks**: Scikit-learn, TensorFlow, Keras  
 - **Version Control**: Git & GitHub
-
----
-
-## 🤖 Why I Built This Repository
-
-- **To Learn** – Practicing by building, experimenting, and documenting  
-- **To Stay Consistent** – Updating progress regularly to keep myself accountable  
-- **To Share** – Making it easier for others to follow along or contribute  
 
 ---
 
