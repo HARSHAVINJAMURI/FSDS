@@ -13,12 +13,7 @@ This repo is neatly organized into folders for easy navigation:
 - **`Task_PDF/`** – Short notes, concept summaries, and cheat sheets written in plain English.
 
 - **`README/`**  – a readme file describes th entire thing
----
-
-## 👤 About Me
-
-I'm an enthusiastic learner with a strong interest in how **Artificial Intelligence** works. I enjoy building things, solving problems, and learning by doing.
-
+  
 ---
 
 ## 🧰 Tools & Technologies I Use
