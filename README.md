@@ -8,9 +8,7 @@ Welcome to my personal learning space! This repository is where I’m tracking e
 
 This repo is neatly organized into folders for easy navigation:
 
-- **`Python_Task/`** – Jupyter notebooks & python file from daily classes, hands-on tutorials.
-
-- **`Task_PDF/`** – Short notes, concept summaries, and cheat sheets written in plain English.
+- **`Python/`** – Jupyter notebooks & python file from daily classes, hands-on tutorials, Short notes, concept summaries, and cheat sheets written in plain English.
 
 ---
 
